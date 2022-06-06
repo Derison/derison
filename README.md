@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+<!-- ## 🛠️ My Tech Stack
 
 **Programming Languages**
 
@@ -72,4 +72,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="40" style="margin: 0px 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" style="margin: 0px 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" style="margin: 0px 5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" style="margin: 0px 5px;"/> -->
